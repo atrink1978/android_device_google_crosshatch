@@ -17,4 +17,25 @@
 -->
 <resources>
     <dimen name="rounded_corner_content_padding">28px</dimen>
+    <!-- Default horizontal drawable padding for status bar icons. -->
+    <dimen name="status_bar_horizontal_padding">2dp</dimen>
+    <!-- The starting padding for the clock in the status bar. -->
+    <dimen name="status_bar_clock_starting_padding">5dp</dimen>
+    <!-- The end padding for the clock in the status bar. -->
+    <dimen name="status_bar_clock_end_padding">0dp</dimen>
+    <!-- Starting padding for a left-aligned status bar clock -->
+    <dimen name="status_bar_left_clock_starting_padding">0dp</dimen>
+    <!-- End padding for left-aligned status bar clock -->
+    <dimen name="status_bar_left_clock_end_padding">5dp</dimen>
+    <!-- padding between the heads up and the statusbar -->
+    <dimen name="heads_up_status_bar_padding">8dp</dimen>
+    <dimen name="status_bar_icon_padding">0dp</dimen>
+    <!-- the padding on the start of the statusbar -->
+    <dimen name="status_bar_padding_start">5dp</dimen>
+    <!-- the padding on the end of the statusbar -->
+    <dimen name="status_bar_padding_end">5dp</dimen>
+    <!-- the padding on the top of the statusbar (usually 0) -->
+    <dimen name="status_bar_padding_top">0dp</dimen>
+    <!-- The bottom padding of the status bar header. -->
+    <dimen name="status_bar_header_padding_bottom">48dp</dimen>
 </resources>
